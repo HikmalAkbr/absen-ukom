@@ -1,0 +1,112 @@
+<table class="text-center" border="1">
+    <thead class="text-center">
+        <tr>
+            <th>No.</th>
+            <th>Nama</th>
+            <th>Tanggal</th>
+            <th>Keterangan</th>
+        </tr>
+    </thead>
+    <tbody class="text-center">
+                            <tr>
+                <td>1</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "nama" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>26</b><br />
+</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "tanggal" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>27</b><br />
+</td>
+                <td>Izin</td>
+            </tr>
+                    <tr>
+                <td>2</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "nama" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>26</b><br />
+</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "tanggal" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>27</b><br />
+</td>
+                <td>Hadir</td>
+            </tr>
+                    <tr>
+                <td>3</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "nama" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>26</b><br />
+</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "tanggal" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>27</b><br />
+</td>
+                <td>Izin</td>
+            </tr>
+                    <tr>
+                <td>4</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "nama" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>26</b><br />
+</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "tanggal" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>27</b><br />
+</td>
+                <td>Izin</td>
+            </tr>
+                    <tr>
+                <td>5</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "nama" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>26</b><br />
+</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "tanggal" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>27</b><br />
+</td>
+                <td>Hadir</td>
+            </tr>
+                    <tr>
+                <td>6</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "nama" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>26</b><br />
+</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "tanggal" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>27</b><br />
+</td>
+                <td>Izin</td>
+            </tr>
+                    <tr>
+                <td>7</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "nama" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>26</b><br />
+</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "tanggal" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>27</b><br />
+</td>
+                <td>Hadir</td>
+            </tr>
+                    <tr>
+                <td>8</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "nama" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>26</b><br />
+</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "tanggal" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>27</b><br />
+</td>
+                <td>Sakit</td>
+            </tr>
+                    <tr>
+                <td>9</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "nama" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>26</b><br />
+</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "tanggal" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>27</b><br />
+</td>
+                <td>Izin</td>
+            </tr>
+                    <tr>
+                <td>10</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "nama" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>26</b><br />
+</td>
+                <td><br />
+<b>Warning</b>:  Undefined array key "tanggal" in <b>C:\xampp\htdocs\user_level\export.php</b> on line <b>27</b><br />
+</td>
+                <td>Hadir</td>
+            </tr>
+            </tbody>
+</table>
